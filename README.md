@@ -5,7 +5,7 @@ Selected projects from my work in data science, statistics, and numerical analys
 
 Working from publicly available data sources, the student trained a recursive neural network (RNN) implemented in Python (pandas, sklearn, keras) to predict the Chicago Board Options Exchange (CBOE) Volatility Index (VIX). An ad hoc method of sentiment quantification was applied to datasets containing Reddit and ABC headlines spanning several years. The result was a trained RNN that was able to predict the Delta VIX closing day over day based on the headlines from the previous 20 trading days.
 <br>
-Once  trained,  the  network  was  scored  against  a  test  set  to  root-mean-squared  error (RSME),  and  evaluated  again  by  graphing  the  results  of  the  prediction  against  the recorded  data  set.   The  RMSE  was  1.87  for  the  ABC  dataset  against  the  segregated test set, and 2.07 for the Reddit.  The predictions graphed against the ABC datase is shown below, and the full writeup pdf is available [here](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/Math_7243_Machine_Learning_Final_Project_r3.pdf).
+Once  trained,  the  network  was  scored  against  a  test  set  to  root-mean-squared  error (RSME),  and  evaluated  again  by  graphing  the  results  of  the  prediction  against  the recorded  data  set.   The  RMSE  was  1.87  for  the  ABC  dataset  against  the  segregated test set, and 2.07 for the Reddit.  The predictions graphed against the ABC datase is shown below.
 
 ![](/images/VIX_Prediction_ABC_Headlines_Results.png)
 
@@ -25,5 +25,10 @@ The reserved test set was utilized to measure the performance of the model. Usin
 
 ![](/images/UML_CI_Bootstrapping_Results.png)
 
-In both cases, the scoring was improved on the test set over the training score. This is likely due to duplication of topics between headlines creating tighter clusters with more distance between them, as this would improve either metric.  PDF of the presentation may be found [here](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/DS%205230%20Unsupervised%20ML/Galloway-DS5230-Final%20Project%20Report.pdf). 
+In both cases, the scoring was improved on the test set over the training score. This is likely due to duplication of topics between headlines creating tighter clusters with more distance between them, as this would improve either metric.
 
+## [Anomaly Detection with Local Outlier Factor Study](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/DS%205230%20Unsupervised%20ML/14_Module%20Final%20Exam/presentation/Galloway-DS5230-Final%20Exam-Local%20Outlier%20Factor.pdf)
+
+A study of varying methods for anomaly detection with focus on implementation and detailed examination of the Local Outlier Factor method as compared to other major clustering methods.
+
+![](/images/LOF_vs_Others.png)
