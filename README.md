@@ -11,7 +11,7 @@ Once  trained,  the  network  was  scored  against  a  test  set  to  root-mean-
 
 ## [Unsupervised Learning, NLP, Clustering: Clustering of News Headlines for Sentiment Analysis](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/DS%205230%20Unsupervised%20ML/Galloway-DS5230-Final%20Project%20Report.pdf)
 The goal of the project was to analyze a collection of news headlines to identify reoccurring sentiment themes. The dataset was comprised of roughly 1.25 million headlines and is the synthesis of two datasets publicly available on Kaggle. The news sources from which the headlines were pulled were Reddit’s WorldNews channel and ABC which is an Australian news organization. The time span for the collective dataset was roughly from 2003 to 2019. This project utilized skills in natural language processing (NLP) and unsupervised machine learning techniques in clustering analysis.  Several clustering and preprocessing techniques were evaluated to find the best method and number of sentiment clusters.
-<img src="/images/UML_TF_TFIDF_Wordcloud.png" width="1000">
+![](/images/UML_TF_TFIDF_Wordcloud.png|width=500)
 
 The K-means LDA-based model performed best based on Silhouette coefficient and CH score metrics.  In fact, the LDA-based models performed better in all cases with the exception of DBSCAN.  This is likely due to the additional sophistication in the LDA algorithm from the inclusion of extra latent variables versus the non-negative matrix factorization.
 
