@@ -51,7 +51,9 @@ The project comprises data formating, feature engineering, EDA and optimization 
 
 ## [Markov Chain Modeling: Wind Speed Data from Boston Logan Airport](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/MATH%207241%20Probability%20Models/Math_7241_Markov_Chain_Project.pdf)
 Wind speed data from Boston Logan Airport was analyzed and modeled utilizing python/matlab and the model was evaluated via Chi-squared test for the two-step expected values. The choice of model was required as part of the graduate level course, and is a poor fit as applied due to the seasonality inherent in the data. However, the results were reasonable.
+<br>
 ![](/images/BWSnetworkGraph.png)
+<br>
 ![](/images/BWStwo_step_frequencies.png)
 
 ## [Computer Vision: Real Time Liquid Level Detection](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/GallowayMath7203MiniProject01_Notebook.pdf)
