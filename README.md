@@ -1,2 +1,2 @@
-# joshs_portfolio
+# Josh Galloway Portfolio
 Portfolio Overview
