@@ -37,3 +37,9 @@ A study of varying methods for anomaly detection with focus on implementation an
 Wind speed data from Boston Logan Airport was analyzed and modeled utilizing python/matlab and the model was evaluated via Chi-squared test for the two-step expected values. The choice of model was required as part of the graduate level course, and is a poor fit as applied due to the seasonality inherent in the data. However, the results were reasonable.
 ![](/images/BWSnetworkGraph.png)
 ![](/images/BWStwo_step_frequencies.png)
+
+## [Computer Vision: Real Time Liquid Level Detection](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/GallowayMath7203MiniProject01_Notebook.pdf)
+
+A from scratch implementation of the Canny Edge Detection Algorithm in Python utilizing numpy was modified to track liquid level in a vessel as it was drained from a vessel.  The resulting system worked very well.
+
+![](/images/realTimeTracking.png)
