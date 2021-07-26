@@ -58,7 +58,7 @@ Wind speed data from Boston Logan Airport was analyzed and modeled utilizing pyt
 
 A from scratch implementation of the Canny Edge Detection Algorithm in Python utilizing numpy was modified to track liquid level in a vessel as it was drained from a vessel.  The resulting system worked very well.
 
-![](/images/realTimeTracking.png)
+![](/images/liquid_level_tracker.gif)
 
 ## [Cart-Pendulum System Dynamic Simulation and Control](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/Math_7203_Mini_Project_II_Cart_Pole_ODE_Simulation.pdf)
 
