@@ -32,3 +32,8 @@ In both cases, the scoring was improved on the test set over the training score.
 A study of varying methods for anomaly detection with focus on implementation and detailed examination of the Local Outlier Factor method as compared to other major clustering methods.
 
 ![](/images/LOF_vs_Others.png)
+
+## [Markov Chain Modeling: Wind Speed Data from Boston Logan Airport](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/MATH%207241%20Probability%20Models/Math_7241_Markov_Chain_Project.pdf)
+Wind speed data from Boston Logan Airport was analyzed and modeled utilizing python/matlab and the model was evaluated via Chi-squared test for the two-step expected values. The choice of model was required as part of the graduate level course, and is a poor fit as applied due to the seasonality inherent in the data. However, the results were reasonable.
+![](/images/BWSnetworkGraph.png)
+![](/images/BWStwo_step_frequencies.png)
