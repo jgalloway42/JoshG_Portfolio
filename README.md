@@ -71,3 +71,17 @@ Project descriptionThe dynamics of the classic cart-pole system were simulated u
 *Controlled simulation with objective to center cart and balance the pole*
 <br>
 ![](/images/CartpoleSimOptimalControl_objective_cart_x_to_0.gif)
+
+## [Nonlinear Ordinary Differential Equation Simulation: Hodgkin-Huxley Neuron Action Potential Model](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/MATH%207205%20Numerical%20Analysis%202/Project%2001/Galloway-Math%207205%20Mini-Project%2001%20Presentation.pdf)
+The Hodgkin-Huxley Model was implemented/simulated in python/numpy utilizing Forward Euler, Huen's Method and 4th order Runga-Kutta all of which were coded from scratch.
+![](/images/HHM_rk4_simulation.png)
+
+## [Linear Programming Optimization of Industrial Cogeneration Facility Operation](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/MATH%207205%20Numerical%20Analysis%202/Project%2002/Galloway-MATH7205-MiniProject-02-Presentation.pdf)
+
+The steady state operation of a cogeneration facility was simulated in python and then, utilizing scipy and cvxopt's linear programming functionality, optimized under varying operational conditions.
+![](/images/OptimizationResultMaxSteamOffset.png)
+
+## [Industrial Boiler Drum Dynamic Modeling and Simulation](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/Galloway-Final%20Project%205131-Paper.pdf)
+A first principles model of an industrial boiler drum was created and simulated numerically in Python to examine the shrink-swell phenomenon.
+
+![](/images/boiler_drum_shrink_swell.png)
