@@ -85,3 +85,8 @@ The steady state operation of a cogeneration facility was simulated in python an
 A first principles model of an industrial boiler drum was created and simulated numerically in Python to examine the shrink-swell phenomenon.
 
 ![](/images/boiler_drum_shrink_swell.png)
+
+## [HONORS UNDERGRADUATE RESEARCH: AUTONOMOUS ROBOT FOR REMOTE DETECTION OF UXO](https://github.com/jgalloway42/BSEE_papers_and_projects/blob/master/Galloway_thesis.pdf)
+
+The Electrical and Computer Engineering Technology (ECET) Honors student developed a prototype for an autonomous landmine and unexploded ordinance (UXO) seeking robot. The system provided functionality including locating metallic landmines and UXO within a defined area/environment, recording the location of said landmines and UXO’s, and storing the data off unit via an IEEE 802.11b/g connection to a Windows or Linux-based personal computer. The project afforded the student the opportunity to explore the field of robotics with the added benefit of providing experience with mechanical systems,printed circuit board (PCB) layout/production, and network programming in Java. Application of the prototype and corresponding research may lend themselves to demining the more than 100 landmine/unexploded ordinance affected countries in the world particularly in desert terrain (US Department of State Fact Sheet, 2 July 2003).
+![](/images/undergrad_robot.png)
