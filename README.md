@@ -33,6 +33,15 @@ A study of varying methods for anomaly detection with focus on implementation an
 
 ![](/images/LOF_vs_Others.png)
 
+## [Simple XGBoost Sales Forecasting](https://github.com/jgalloway42/xgboost_sales_forecast/tree/main)
+
+This project was created to mimic the functionality outlined in the tutorial found [here](https://medium.com/@oemer.aslantas/a-real-world-example-of-predicting-sales-volume-using-xgboost-with-gridsearch-on-a-jupyternotebook-c6587506128d).
+
+The project comprises data formating, feature engineering, EDA and optimization of an XGBoost regressor via gridsearch.  Overall the forecasting produced very good results with an R<sup>2</sup> of 0.87.
+
+![](/images/Prediction_Results_Close_Up.png)
+
+
 ## [Markov Chain Modeling: Wind Speed Data from Boston Logan Airport](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/MATH%207241%20Probability%20Models/Math_7241_Markov_Chain_Project.pdf)
 Wind speed data from Boston Logan Airport was analyzed and modeled utilizing python/matlab and the model was evaluated via Chi-squared test for the two-step expected values. The choice of model was required as part of the graduate level course, and is a poor fit as applied due to the seasonality inherent in the data. However, the results were reasonable.
 ![](/images/BWSnetworkGraph.png)
