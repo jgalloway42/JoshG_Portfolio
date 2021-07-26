@@ -1,6 +1,10 @@
 # Josh Galloway Portfolio
 Selected projects from my work in data science, statistics, and numerical analysis.
 
+### [LinkedIn](https://www.linkedin.com/in/josh-galloway/)
+### [Resume](https://github.com/jgalloway42/JoshG_Portfolio/blob/main/Josh%20Galloway%20Resume_July2021r1.pdf)
+
+
 ## [RNN Application: Predicting VIX Ticker Volatility from Headlines](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/Math_7243_Machine_Learning_Final_Project_r3.pdf)
 
 Working from publicly available data sources, the student trained a recursive neural network (RNN) implemented in Python (pandas, sklearn, keras) to predict the Chicago Board Options Exchange (CBOE) Volatility Index (VIX). An ad hoc method of sentiment quantification was applied to datasets containing Reddit and ABC headlines spanning several years. The result was a trained RNN that was able to predict the Delta VIX closing day over day based on the headlines from the previous 20 trading days.
