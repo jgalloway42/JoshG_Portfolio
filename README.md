@@ -7,7 +7,7 @@ Working from publicly available data sources, the student trained a recursive ne
 <br>
 Once  trained,  the  network  was  scored  against  a  test  set  to  root-mean-squared  error (RSME),  and  evaluated  again  by  graphing  the  results  of  the  prediction  against  the recorded  data  set.   The  RMSE  was  1.87  for  the  ABC  dataset  against  the  segregated test set, and 2.07 for the Reddit.  The predictions graphed against the ABC datase is shown below, and the full writeup pdf is available [here](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/Math_7243_Machine_Learning_Final_Project_r3.pdf).
 
-![](/images/VIX%20Prediction%20ABC%20Headlines%20Results.png)
+![]("/images/VIX Prediction ABC Headlines Results.png")
 
 ## Unsupervised Learning, NLP, Clustering: Clustering of News Headlines for Sentiment Analysis
 The goal of the project was to analyze a collection of news headlines to identify reoccurring sentiment themes. The dataset was comprised of roughly 1.25 million headlines and is the synthesis of two datasets publicly available on Kaggle. The news sources from which the headlines were pulled were Reddit’s WorldNews channel and ABC which is an Australian news organization. The time span for the collective dataset was roughly from 2003 to 2019. This project utilized skills in natural language processing (NLP) and unsupervised machine learning techniques in clustering analysis.  
