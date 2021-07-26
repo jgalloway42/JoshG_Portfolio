@@ -49,7 +49,9 @@ A from scratch implementation of the Canny Edge Detection Algorithm in Python ut
 Project descriptionThe dynamics of the classic cart-pole system were simulated using the Python language's available initial value problem (IVP) ordinary differential equation (ODE) solver. The system was animated to allow for visualization and verification. Following this, the system was linearized around an equilibrium point to allow application of linear control theory; then, a Linear Quadratic Regulator (LQR) was constructed to control the system. The controlled system was simulated and animations produced once again to verify accuracy of the results.
 
 *Uncontrolled simulation*
+<br>
 ![](/images/CartpoleSimNoForcePendOffCenter.gif)
 <br>
 *Controlled simulation with objective to center cart and balance the pole*
+<br>
 ![](/images/CartpoleSimOptimalControl_objective_cart_x_to_0.gif)
