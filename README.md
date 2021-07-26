@@ -6,7 +6,7 @@ I'm currently working as a Senior Advanced Process Control Engineer. This involv
 I have an analytical approach to data and projects, thrive working with others to improve systems, and have formidable problem solving skills. As a proponent of data science, I apply scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data and apply knowledge and actionable insights from data across a broad range of application domains. I'm currently looking to transition to a role as a Data Scientist.
 
 #### [LinkedIn](https://www.linkedin.com/in/josh-galloway/)
-#### [Resume](https://github.com/jgalloway42/JoshG_Portfolio/blob/main/Josh%20Galloway%20Resume_July2021r1.pdf)
+#### [Resume](https://github.com/jgalloway42/JoshG_Portfolio/blob/main/Josh_Galloway_Resume.pdf)
 
 ## [RNN Application: Predicting VIX Ticker Volatility from Headlines](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/Math_7243_Machine_Learning_Final_Project_r3.pdf)
 
