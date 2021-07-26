@@ -56,7 +56,7 @@ Wind speed data from Boston Logan Airport was analyzed and modeled utilizing pyt
 
 ## [Computer Vision: Real Time Liquid Level Detection](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/GallowayMath7203MiniProject01_Notebook.pdf)
 
-A from scratch implementation of the Canny Edge Detection Algorithm in Python utilizing numpy was modified to track liquid level in a vessel as it was drained from a vessel.  The resulting system worked very well.
+A from scratch implementation of the Canny Edge Detection Algorithm in Python utilizing numpy was modified to track liquid level in a vessel as it was drained from a vessel.  The resulting system worked very well. The gif below runs very slow compared to the real implementation, but is shown to elucidate the concept.
 
 ![](/images/liquid_level_tracker.gif)
 
