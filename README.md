@@ -50,5 +50,6 @@ Project descriptionThe dynamics of the classic cart-pole system were simulated u
 
 *Uncontrolled simulation*
 ![](/images/CartpoleSimNoForcePendOffCenter.gif)
+<br>
 *Controlled simulation with objective to center cart and balance the pole*
 ![](/images/CartpoleSimOptimalControl_objective_cart_x_to_0.gif)
