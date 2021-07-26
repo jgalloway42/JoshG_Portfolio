@@ -43,3 +43,12 @@ Wind speed data from Boston Logan Airport was analyzed and modeled utilizing pyt
 A from scratch implementation of the Canny Edge Detection Algorithm in Python utilizing numpy was modified to track liquid level in a vessel as it was drained from a vessel.  The resulting system worked very well.
 
 ![](/images/realTimeTracking.png)
+
+## [Cart-Pendulum System Dynamic Simulation and Control](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/Math_7203_Mini_Project_II_Cart_Pole_ODE_Simulation.pdf)
+
+Project descriptionThe dynamics of the classic cart-pole system were simulated using the Python language's available initial value problem (IVP) ordinary differential equation (ODE) solver. The system was animated to allow for visualization and verification. Following this, the system was linearized around an equilibrium point to allow application of linear control theory; then, a Linear Quadratic Regulator (LQR) was constructed to control the system. The controlled system was simulated and animations produced once again to verify accuracy of the results.
+
+*Uncontrolled simulation*
+![](/images/CartpoleSimNoForcePendOffCenter.gif)
+*Controlled simulation with objective to center cart and balance the pole*
+![](/images/CartpoleSimOptimalControl_objective_cart_x_to_0.gif)
