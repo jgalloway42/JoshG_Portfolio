@@ -40,17 +40,17 @@ A study of varying methods for anomaly detection with focus on implementation an
 
 ![](/images/LOF_vs_Others.png)
 
-## [XGBoost Sales Forecasting](https://github.com/jgalloway42/xgboost_sales_forecast/tree/main)
-
-The project comprises data formating, feature engineering, EDA and optimization of an XGBoost regressor via gridsearch.  Overall the forecasting produced very good results with an R<sup>2</sup> of 0.87.
-
-![](/images/Prediction_Results_Close_Up.png)
-
 ## [Classification of Obesity Levels](https://github.com/jgalloway42/classification_of_obesity_levels)
 
 Utilizing a publically available data set, this project builds a classifier of obesity level between levels (Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II and Obesity Type III) based on eating habits and physical conditions of the individuals. Four models were optimized via grid search and 5-fold cross-validation: One vs Rest Logistic Regession, One vs Rest Support Vector Classifier, Random Forest, and XGBoost and scored on macro averaged F1 score. Overall, both the random forest and XGBoost model performed very well with f1-scores over 95% in both cases. The resultant confusion matricies follow:
 
 ![](/images/obesity_combined_cf.png)
+
+## [XGBoost Sales Forecasting](https://github.com/jgalloway42/xgboost_sales_forecast/tree/main)
+
+The project comprises data formating, feature engineering, EDA and optimization of an XGBoost regressor via gridsearch.  Overall the forecasting produced very good results with an R<sup>2</sup> of 0.87.
+
+![](/images/Prediction_Results_Close_Up.png)
 
 ## [Markov Chain Modeling: Wind Speed Data from Boston Logan Airport](https://github.com/jgalloway42/MS-Applied-Mathematics-Projects/blob/master/MATH%207241%20Probability%20Models/Math_7241_Markov_Chain_Project.pdf)
 Wind speed data from Boston Logan Airport was analyzed and modeled utilizing python/matlab and the model was evaluated via Chi-squared test for the two-step expected values. The choice of model was required as part of the graduate level course, and is a poor fit as applied due to the seasonality inherent in the data. However, the results were reasonable.
