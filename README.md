@@ -1,7 +1,7 @@
 # Josh Galloway Portfolio
 I have produced multiple accomplishments by designing, implementing and testing a wide range of control functions, providing process modeling solutions, and leveraging the power of technology to solve challenging problems. Success includes managing priority projects by applying strong communication, leadership and influencing skills. I received my M.S. in Applied Mathematics focusing on Data Science in May of 2021, adding to a B.S. in Electrical Engineering Technology.
 
-I'm currently working as a Senior Advanced Process Control Engineer. This involves troubleshooting products and processes, control strategy development, process testing, experimental design and opportunity analysis applying first-principles, regression, and time-series modeling and typical solutions save around $250M-1MM annually.
+I'm currently working as a Senior Advanced Process Control Engineer. This involves troubleshooting products and processes, control strategy development, process testing, experimental design, opportunity analysis by applying first-principles, regression, and time-series modeling. Typical solutions save around $250M-1MM annually.
 
 I have an analytical approach to data and projects, thrive working with others to improve systems, and have formidable problem solving skills. As a proponent of data science, I apply scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data and apply knowledge and actionable insights from data across a broad range of application domains. I'm currently looking to transition to a role as a Data Scientist.
 
