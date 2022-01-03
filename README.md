@@ -1,3 +1,4 @@
+# Josh Galloway Portfolio
 ## Personal Summary
 I have produced multiple accomplishments by designing, implementing and testing a wide range of control functions, providing process modeling solutions, and leveraging the power of technology to solve challenging problems. Success includes managing priority projects by applying strong communication, leadership and influencing skills. I received my M.S. in Applied Mathematics focusing on Data Science in May of 2021, adding to a B.S. in Electrical Engineering (2008). I'm currently working as Data Scientist after a lengthy career as an Advanced Process Control Engineer. 
 
